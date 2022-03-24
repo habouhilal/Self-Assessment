@@ -53,4 +53,4 @@ Their strengths as a team, was the support and availability we had for each othe
 The Topic of this project is Tops 10 Covid safest places to visit for a vacation
 We first load the data for Covid cases and vaccination. We did an ETL process to clean and transform the data to our database. Then we used Machine learning The Random Forest Regressor algorithm to make predictions. The results were 99% accuracy. Then we used the top 10 places to plot in an interactive map and create an interactive dashboard for the analytics information. 
 
-![image](https://user-images.githubusercontent.com/91625564/159989440-e0c83a90-95bf-4eb5-ab89-774127b5481c.png)
+
