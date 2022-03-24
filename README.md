@@ -3,7 +3,7 @@
 
 ## Self-Assessment
 
-This project was a great opportunity to work as a part of a team and realise our first data analysis project. This was a an experience of how a real data analysis project woul be in real job. My contribution was in creating a Dashbord with HTML and JavaScript.  
+This project was a great opportunity to work as a part of a team and realize our first data analysis project. This was a an experience of how a real data analysis project would be in real job. My contribution was in creating a Dashbord with HTML and JavaScript.  
 
 ### Data Visualization and interactive Dashboard
 
@@ -33,17 +33,17 @@ Using tableau was a great alternative to create a dashboard to filter the plots 
  ### Conclusion 
 
 In summary I was able to combine all these technologies was a great opportunity to test and use them together. We have an HTML page with 3 Tabs
-1-	Home uses Plotly and javascript to filter the data 
-2-	Map : interactive map with API and Leaflet that shows the top safest places to visit with hotel information 
-3-	Dashboard : offers extras analytics for the user with tableau 
+1-	Home uses Plotly and JavaScript to filter the data 
+2-	Map: interactive map with API and Leaflet that shows the top safest places to visit with hotel information 
+3-	Dashboard: offers extras analytics for the user with tableau 
 
 
 
 ## Team Assessment
 
-The choice for my teammates was from the study group we worked on since the first day of this bootcamp.The group was coherent and we we able to talk the subject, steps and individual tasks. We had a great respect for each others work and time. We also had a good communication. 
-Who ever is availble will join the zoom to troubleshoot or make decision based on results. We had meetings 3 times a week to review the work progress and explain the codes we have. 
-Their strengths as a team, was the support and availability we had for ech other. Troubleshoot errors for each others. 
+The choice for my teammates was from the study group we worked on since the first day of this bootcamp. The group was coherent and we able to talk the subject, steps and individual tasks. We had a great respect for each other’s work and time. We also had a good communication. 
+Whoever is available will join the zoom to troubleshoot or make decision based on results. We had meetings 3 times a week to review the work progress and explain the codes we have. 
+Their strengths as a team, was the support and availability we had for each other. Troubleshoot errors for each other’s. 
 
 
 
@@ -51,5 +51,6 @@ Their strengths as a team, was the support and availability we had for ech other
 
 
 The Topic of this project is Tops 10 Covid safest places to visit for a vacation
-We first loades the data for Covid cases and vaccination. We did an ETL process to clean and transform the data to our database. Then we used Machine learning The Random Forest Regressor algorithm to make predictions. The results were 99% accuracy. Then we used the top 10 places to plot in an interactive map and create an interactive dashboard for the analytics informations. 
+We first load the data for Covid cases and vaccination. We did an ETL process to clean and transform the data to our database. Then we used Machine learning The Random Forest Regressor algorithm to make predictions. The results were 99% accuracy. Then we used the top 10 places to plot in an interactive map and create an interactive dashboard for the analytics information. 
 
+![image](https://user-images.githubusercontent.com/91625564/159989440-e0c83a90-95bf-4eb5-ab89-774127b5481c.png)
