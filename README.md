@@ -28,7 +28,7 @@ ConvasJs is great library in JavaScript to create animated and complicated graph
 ### Tableau 
 
 Using tableau was a great alternative to create a dashboard to filter the plots offered to the user. We used Embed Code offered in tableau public to insert in our dashboard tab. 
-![image](https://user-images.githubusercontent.com/91625564/159974618-6b11cad5-1ff5-4e1e-a3b4-f2b488985628.png)
+
  
  ### Conclusion 
 
