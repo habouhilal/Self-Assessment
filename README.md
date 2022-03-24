@@ -13,17 +13,17 @@ Crossfilter is a multi-dimensional dataset. Crossfilter is defined under the cro
 Starting coding the cross filter, the first issue we faced is dimensioning the data. We need Multiple dimensions for the data to be interactive. Unfortunately, the type of data that we have can only be displayed in one dimension: Covid cases by places and date and total vaccination. 
 The second major issue is time. The time frame to learn a new concept and use it in a short period was a challenge. 
 Crossfilter is a great opportunity to create an interactive HTML dashboard. Using D3 to present and manage the data. 
-[link ] (https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/DashboardTest%20/CrossfilterTest.js)
+[link ](https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/DashboardTest%20/CrossfilterTest.js)
 
 
 #### Plotly 
 
 Plotly was very helpful to create visualization and graph the data. We used with Javascrip and we created some onclick event in the HTML page to make it interactive.   
-Great opportunity is offered by Plotly to create animated graphs. Plotly.Express. [Link ] (https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/plotting_data.ipynb)
+Great opportunity is offered by Plotly to create animated graphs. Plotly.Express. [Link](https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/plotting_data.ipynb)
 
 #### ConvasJs
 
-ConvasJs is great library in JavaScript to create animated and complicated graphs. Fist challenge we had is the data format didn’t help to plot an animated graph using ConvasJs. Also, this library is paid and need a license for a professional use.  [Link] (https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/DashboardTest%20/ConvasJsTest.html)
+ConvasJs is great library in JavaScript to create animated and complicated graphs. Fist challenge we had is the data format didn’t help to plot an animated graph using ConvasJs. Also, this library is paid and need a license for a professional use.  [Link](https://github.com/icheung487/Final_Project/blob/main/Vacation%20Project/DashboardTest%20/ConvasJsTest.html)
 
 #### Tableau 
 
@@ -53,4 +53,4 @@ Their strengths as a team, was the support and availability we had for each othe
 The Topic of this project is Tops 10 Covid safest places to visit for a vacation
 We first load the data for Covid cases and vaccination. We did an ETL process to clean and transform the data to our database. Then we used Machine learning The Random Forest Regressor algorithm to make predictions. The results were 99% accuracy. Then we used the top 10 places to plot in an interactive map and create an interactive dashboard for the analytics information. 
 
-[GitHub Poject Link] (https://github.com/icheung487/Final_Project)
+[GitHub Poject Link](https://github.com/icheung487/Final_Project)
